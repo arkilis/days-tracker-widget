@@ -31,6 +31,7 @@ Open the app, here we can make any update one the theme as we like, simply click
 ![](resources/step3.png)
 
 ### 📺 Screen recording tutorails
+![How to add Days Gone Widget on iPhone.mp4](https://youtu.be/rA5c5JPgxrk)
 
 
 
