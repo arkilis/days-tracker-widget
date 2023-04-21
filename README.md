@@ -4,6 +4,7 @@
 
 ## 📱 What can it do
 Adding a widget on your home screen on iPhone/iPad tracking the progress of the year. There are more than 10 themes you can choose from.
+
 ![](resources/preview.png)
 
 
@@ -30,14 +31,17 @@ Open the app, here we can make any update one the theme as we like, simply click
 
 ![](resources/step3.png)
 
-### 📺 Screen recording tutorails
-![How to add Days Gone Widget on iPhone.mp4](https://youtu.be/rA5c5JPgxrk)
+### 📺 Screen recording tutorail
+
+![How to add Days Gone Widget on iPhone.mp4](resources/How%20to%20add%20Days%20Gone%20Widget%20on%20iPhone.gif)
 
 
 
 ## 🎈 Download
 
 <a href="https://apps.apple.com/us/app/days-tracker/id1570095468?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1622592000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/44c75899d6bd289680b518a6ce7c0838/fb028270d64875e1659fdd81b128bf04.png">
 
 
 ## 📬 Support
